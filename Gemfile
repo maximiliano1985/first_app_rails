@@ -4,9 +4,9 @@ ruby '2.2.0'
 
 gem 'rails', '>= 4.0.2'
 
-#group :development do
+group :development do
   gem 'sqlite3', '>= 1.3.8'
-  #end
+end
 
 gem 'sass-rails', '>= 4.0.1'
 gem 'uglifier', '>= 2.1.1'
